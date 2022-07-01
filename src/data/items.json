@@ -1,0 +1,53 @@
+[
+  { "id" : 1,
+    "name" : "Item 1 name",
+    "price" : 10102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 2,
+    "name" : "Item 2 name",
+    "price" : 20102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 3,
+    "name" : "Item 3 name",
+    "price" : 30102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 4,
+    "name" : "Item 4 name",
+    "price" : 40102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 5,
+    "name" : "Item 5 name",
+    "price" : 50102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 10,
+    "name" : "Item 1 name",
+    "price" : 10102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 20,
+    "name" : "Item 2 name",
+    "price" : 20102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 30,
+    "name" : "Item 3 name",
+    "price" : 30102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 40,
+    "name" : "Item 4 name",
+    "price" : 40102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+},
+{ "id" : 50,
+    "name" : "Item 5 name",
+    "price" : 50102.23,
+    "imageURL" : "https://cdn.pixabay.com/photo/2016/06/03/12/37/internet-search-engine-1433323_1280.jpg"
+}
+
+]
